@@ -1,0 +1,10 @@
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\bin\Debug\QuickBlueToothLE.exe.config
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\bin\Debug\QuickBlueToothLE.exe
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\bin\Debug\QuickBlueToothLE.pdb
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\bin\Debug\Windows.winmd
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.csproj.AssemblyReference.cache
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.csproj.CoreCompileInputs.cache
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.csproj.CopyComplete
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.exe
+C:\Users\Bursiyer\Desktop\VSProjects\QuickBluetoothLE-2\QuickBluetoothLE\obj\Debug\QuickBlueToothLE.pdb
